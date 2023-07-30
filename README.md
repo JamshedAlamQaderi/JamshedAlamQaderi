@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/jamshedqaderi" target="blank"><img src="https://img.shields.io/twitter/follow/jamshedqaderi?logo=twitter&style=for-the-badge" alt="jamshedqaderi" /></a> </p>
 
-- 🔭 I’m currently working on [AnView](https://github.com/JamshedAlamQaderi/anview)
+- 🔭 I’m currently working on [Portfolio](https://github.com/JamshedAlamQaderi/portfolio)
 
-- 👯 I’m looking to collaborate on [Tawra Ktor Api](https://github.com/JamshedAlamQaderi/tawra-ktor-api)
+- 👯 I’m looking to collaborate on [KTransport](https://github.com/JamshedAlamQaderi/ktransport)
 
-- 🤝 I'm planning to convert javascript packages to Kotlin/JS project (Non-Interoperable)
+- 🤝 I'm planning to make some open source project with Kotlin/Multiplatform
 
 - 👨‍💻 All of my projects are available at [https://github.com/JamshedAlamQaderi?tab=repositories](https://github.com/JamshedAlamQaderi?tab=repositories)
-
-- 📝 I regularly write articles on [https://jamshedalamqaderi.com](https://jamshedalamqaderi.com)
 
 - 💬 Ask me about **Gradle, Kotlin, Kotlin Multiplatform, Flutter**
 
