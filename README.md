@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jamshedqaderi" target="blank"><img src="https://img.shields.io/twitter/follow/jamshedqaderi?logo=twitter&style=for-the-badge" alt="jamshedqaderi" /></a> </p>
 
-<script src="https://gist.github.com/JamshedAlamQaderi/d1a3db17a47905252548814a95d5524d.js"></script>
+[gist id=d1a3db17a47905252548814a95d5524d]
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/JamshedAlamQaderi/portfolio)
 
