@@ -34,7 +34,13 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/JamshedQaderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JamshedQaderi" height="30" width="40" /></a>
+<a href="https://twitter.com/jamshedqaderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamshedqaderi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jamshedalamqaderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamshedalamqaderi" height="30" width="40" /></a>
+<a href="https://fb.com/100065160788873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100065160788873" height="30" width="40" /></a>
+<a href="https://instagram.com/jamshedalamqaderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamshedalamqaderi" height="30" width="40" /></a>
+<a href="https://medium.com/@jamshedalamqaderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jamshedalamqaderi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucfum_4swysvagrq2iprppha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfum_4swysvagrq2iprppha" height="30" width="40" /></a>
+<a href="https://discord.gg/jamshedalamq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jamshedalamq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
