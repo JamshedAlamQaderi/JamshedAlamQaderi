@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 42 hrs 48 mins  ███████████████████████░░   91.86 %
-Python                 1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-XML                    1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-ActionScript           14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Java Properties        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Kotlin                 48 hrs 41 mins  ███████████████████████▓░   94.33 %
+Python                 1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+XML                    46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+ActionScript           14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Java Properties        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
