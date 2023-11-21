@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin            10 hrs 57 mins  ███████████████████████▓░   94.40 %
+GitIgnore file    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+XML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Java Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
