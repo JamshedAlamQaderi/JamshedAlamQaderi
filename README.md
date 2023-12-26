@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     1 hr 15 mins    █████████████▓░░░░░░░░░░░   54.24 %
-Dart       48 mins         ████████▓░░░░░░░░░░░░░░░░   34.82 %
-XML        12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-SVG        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
