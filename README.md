@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   2 hrs 5 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
