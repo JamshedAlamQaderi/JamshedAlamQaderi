@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           13 mins         ██████████████▓░░░░░░░░░░   59.02 %
+XML              8 mins          █████████▓░░░░░░░░░░░░░░░   38.44 %
+JSON             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
