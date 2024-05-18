@@ -8,10 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            1 hr 47 mins    ██████████████████████▓░░   90.65 %
-Java Properties   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Properties        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-YAML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Java Properties   9 mins          ████████████▒░░░░░░░░░░░░   49.90 %
+Kotlin            9 mins          ████████████▒░░░░░░░░░░░░   49.56 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
