@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                          15 hrs 26 mins  ████████████░░░░░░░░░░░░░   48.47 %
-Kotlin                        13 hrs 33 mins  ██████████▓░░░░░░░░░░░░░░   42.54 %
-Application Resource Bundle   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Markdown                      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-YAML                          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Dart                          18 hrs 33 mins  ██████████████░░░░░░░░░░░   55.62 %
+Kotlin                        11 hrs 51 mins  █████████░░░░░░░░░░░░░░░░   35.53 %
+Application Resource Bundle   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+YAML                          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Markdown                      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
