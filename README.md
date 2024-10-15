@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart                          1 hr 48 mins    ███████████████████████▒░   92.75 %
+Application Resource Bundle   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+XML                           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Java                          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Kotlin                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
