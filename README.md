@@ -8,10 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            1 hr 59 mins    ██████████████████████▓░░   91.02 %
-textmate          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Java Properties   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Properties        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Kotlin            2 hrs 26 mins   ██████████████████████▓░░   91.25 %
+textmate          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Java Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Properties        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
