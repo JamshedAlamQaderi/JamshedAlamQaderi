@@ -10,7 +10,7 @@
 ```txt
 Kotlin            56 mins         ██████████████████▒░░░░░░   73.23 %
 Java Properties   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-Properties        6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Properties        6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
 ```
 
 <!--END_SECTION:waka-->
