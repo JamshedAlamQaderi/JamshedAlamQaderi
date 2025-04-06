@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     1 hr 18 mins    █████████████████████████   99.76 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
