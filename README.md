@@ -8,10 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 1 hr 13 mins    █████████████████████████   99.94 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Markdown               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Prolog                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin                 6 hrs 5 mins    ███████████████████████▒░   92.72 %
+HTML                   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Java Properties        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+TOML                   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
