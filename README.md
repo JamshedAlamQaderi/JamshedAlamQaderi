@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 4 hrs 38 mins   ███████████████████████▓░   95.29 %
-Properties             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-TOML                   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-XML                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Kotlin                 1 hr 57 mins    ██████████████████████▒░░   89.87 %
+Properties             9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+TOML                   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+XML                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
