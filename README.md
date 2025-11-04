@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            1 hr 28 mins    ████████████████████████▓   98.98 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Kotlin   49 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
