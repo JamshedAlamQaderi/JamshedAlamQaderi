@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   4 hrs 34 mins   █████████████████████████   99.79 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Kotlin   2 hrs 32 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
