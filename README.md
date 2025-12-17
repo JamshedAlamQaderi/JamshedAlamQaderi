@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin            41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.37 %
+Groovy            36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
+Java Properties   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Java              14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+XML               13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
 ```
 
 <!--END_SECTION:waka-->
