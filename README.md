@@ -8,11 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            6 hrs 27 mins   ███████████████████████░░   91.42 %
-XML               35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin           6 hrs 49 mins   ███████████████████████░░   91.89 %
+XML              35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
